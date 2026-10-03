@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: Morn SEO Meta Kit
- * Plugin URI: https://github.com/mornrain/morn-seo-meta-kit
+ * Plugin URI: https://github.com/mornrain-lin/morn-seo-meta-kit
  * Description: 轻量级 SEO 元信息与社交卡片插件。提供标题/描述模板、Open Graph、Twitter Card、canonical、hreflang、JSON-LD 结构化数据、文章级 SEO 框、精简 XML 站点地图与 robots.txt 增强。零外部资源、零远程请求。
  * Version: 1.0.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Tested up to: 6.6
  * Author: MornRain
- * Author URI: https://github.com/mornrain
+ * Author URI: https://github.com/mornrain-lin
  * License: MIT
  * License URI: https://opensource.org/licenses/MIT
  * Text Domain: morn-seo-meta-kit
